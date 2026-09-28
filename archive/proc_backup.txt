@@ -1,0 +1,8 @@
+Procedura backup settimanale
+Data: 2023-11-02
+Responsabile: Ufficio IT Helix Formazione
+
+Ogni venerdì alle 18:00 si esegue il backup dei verbali, delle schede corso
+e dell'archivio allievi. La copia va salvata sul NAS in /backup/helix e
+verificata con il checksum del giorno precedente. In caso di errore si
+apre un ticket interno e si avvisa Paolo Sartori.

@@ -4,8 +4,10 @@ Programma Python che, data una cartella di documenti (`.txt`, `.md`, `.csv`), es
 
 Aggiungere un formato = una sottoclasse di `FormatParser` + una riga in `PARSERS` (`helix_kb/parsers.py`).
 
+**Repository:** https://github.com/Knil88/helix-kb  
 **Colab di consegna:** *(il link si aggiunge dopo)*  
-**Questo repository è la fonte del codice.** Il notebook clona la repo e importa i moduli.
+
+Questo repository è la **fonte del codice**. Il notebook Colab clona la repo e importa i moduli.
 
 ## Struttura
 
@@ -31,7 +33,7 @@ Solo standard library: `requirements.txt` non aggiunge dipendenze esterne.
 
 ## Esecuzione
 
-Dopo R2 (cartella `archive/`):
+Cartella `archive/` inclusa nel repository (15 file di prova, di cui 3 casi limite):
 
 ```text
 helix-kb --folder archive --index kb_index.json

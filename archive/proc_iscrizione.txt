@@ -1,0 +1,8 @@
+Procedura iscrizione corsi
+Versione 3.1 — aggiornata il 15/01/2024
+
+L'iscrizione di un allievo si completa solo quando risultano: anagrafica,
+modulo privacy firmato e pagamento della quota o piano rate. La segreteria
+carica i dati nel gestionale entro due giorni lavorativi. I corsi full
+stack e Python per il lavoro hanno lista d'attesa: non si conferma il
+posto in aula senza acconto.

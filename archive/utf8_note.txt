@@ -1,0 +1,6 @@
+Nota interna — caratteri e lingue in archivio
+Helix Formazione, sede di riferimento.
+
+Attenzione ai verbali con accenti: càffè in pausa, naïve, € delle quote,
+e nomi come François. L'archivio deve restare in UTF-8. Non salvare i
+file .txt come ANSI da WordPad.

@@ -1,0 +1,7 @@
+Note d'aula — laboratorio Python
+Docente: Yari Narducci
+
+Gli allievi del modulo 01 hanno faticato su eccezioni e pathlib. Per il
+prossimo ciclo: un'esercitazione unica su cartella di file misti prima
+del progetto di fine modulo. Portare in aula esempi di file vuoti e di
+encoding sbagliato, altrimenti il parser in consegna resta troppo "pulito".

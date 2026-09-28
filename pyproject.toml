@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "helix-kb"
+version = "0.1.0"
+description = "Document parser and knowledge-base index for Helix Formazione"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
+
+[project.scripts]
+helix-kb = "helix_kb.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["helix_kb*"]

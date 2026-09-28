@@ -1,0 +1,6 @@
+# No third-party packages: the project uses the Python standard library
+# (pathlib, csv, json, re, argparse).
+# This file exists so the project can be installed in a virtual environment.
+
+# For a local editable install from this folder:
+#   pip install -e .
